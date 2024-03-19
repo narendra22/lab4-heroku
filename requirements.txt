@@ -19,7 +19,6 @@ colorama==0.4.6
 comm==0.2.1
 contourpy==1.2.0
 cycler==0.12.1
-databutton==0.27.7
 databutton-web==0.16.0
 dataclasses-json==0.5.14
 debugpy==1.8.0
