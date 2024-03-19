@@ -14,7 +14,7 @@ blinker==1.7.0
 cachetools==5.3.3
 certifi==2023.11.17
 charset-normalizer==3.3.2
-click==8.1.7
+click
 cloudpickle==2.2.1
 colorama==0.4.6
 comm==0.2.1
@@ -33,7 +33,7 @@ faiss-cpu==1.8.0
 fastapi
 ffmpy==0.3.1
 filelock==3.13.1
-Flask==3.0.2
+Flask
 fonttools==4.47.2
 frozenlist==1.4.1
 fsspec==2023.12.2
@@ -137,7 +137,7 @@ sortedcontainers==2.4.0
 SQLAlchemy==2.0.28
 stack-data==0.6.3
 starlette==0.22.0
-streamlit==1.29.0
+streamlit
 streamlit-chat==0.1.1
 sympy==1.12
 tenacity==8.2.3
@@ -153,14 +153,14 @@ tqdm==4.66.1
 traitlets==5.14.1
 transformers==4.37.2
 trio==0.21.0
-typer==0.9.0
+typer
 typing-inspect==0.9.0
 typing_extensions==4.9.0
 tzdata==2023.4
 tzlocal==5.2
 ucimlrepo==0.0.3
 urllib3==2.1.0
-uvicorn==0.20.0
+uvicorn
 validators==0.22.0
 virtualenv==20.25.1
 watchfiles==0.18.1
