@@ -3,7 +3,7 @@
 <head>
     <title>Prediction</title>
 </head>
-<body>
+<body style="background-color:powderblue;">
     <h2>Enter the features for prediction</h2>
     <form action="/predict" method="post">
         <input type="text" name="Length1" placeholder="Length1" required="required" > <br>
@@ -19,11 +19,10 @@
         <input type="text" name="Smelt" placeholder="Smelt" required="required"> <br>
         <input type="text" name="Whitefish" placeholder="Whitefish" required="required"> <br>
 
-    
+        <a href="result.html"> 
         <button type="submit">Predict</button>
+    </a>
     </form>
-    {% if prediction_text %}
-    <h3>{{ prediction_text }}</h3>
-    {% endif %}
+
 </body>
 </html>
